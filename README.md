@@ -11,7 +11,7 @@ git clone https://github.com/kajanija/react-contact-form/
 ### 2 Dependencies
 Install dependencies on local machine
 ```bash
-cd react-user-profile-component
+cd react-contact-form
 npm install
 ```
 ### 3 Run
